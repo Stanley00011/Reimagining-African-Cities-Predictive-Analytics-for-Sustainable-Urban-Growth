@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on applying predictive analytics to understand and support sustainable urban growth in African cities. By analyzing traffic congestion, air quality variations, energy consumption patterns, and population density, this project aims to provide insights that can help urban planners and policymakers make informed decisions.
 ## Tools and Technologies
-Programming Language: Python
+###Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
 Machine Learning Models: Gradient Boosting, K-Means Clustering
 Visualization: Matplotlib, Seaborn, Plotly
