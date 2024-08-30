@@ -44,6 +44,7 @@ Missing Data Handling: Missing values were addressed through data imputation and
 Data Merging: The datasets were merged based on common columns, such as city names, to create a unified dataset for analysis.
 
 2. Traffic Congestion Analysis
+
 ![image](https://github.com/user-attachments/assets/cd2fbb40-ebe3-429a-b806-e304c81158cd)
 
 Visualization: A count plot was generated to visualize traffic incidents across different times of the day for various locations.
@@ -51,6 +52,7 @@ Visualization: A count plot was generated to visualize traffic incidents across 
 Outcome: Identified peak traffic congestion times and the most affected locations.
 
 3. Air Quality Variations Analysis
+
 ![image](https://github.com/user-attachments/assets/a888b402-154e-462b-a16c-e1e00539cc00)
 
 Time-Series Analysis: A line plot was created to track PM2.5 levels over time across different locations in Nairobi.
@@ -58,6 +60,7 @@ Time-Series Analysis: A line plot was created to track PM2.5 levels over time ac
 Outcome: Detected trends in air quality and highlighted periods of concern for urban health.
 
 4. Energy Consumption Patterns
+   
 ![image](https://github.com/user-attachments/assets/995f55bb-8df7-4ed8-995a-0fb9947937e0)
   
 Bar Plot Visualization: Visualized energy consumption across different African cities.
@@ -65,6 +68,7 @@ Bar Plot Visualization: Visualized energy consumption across different African c
 Outcome: Revealed cities with the highest and lowest energy consumption, aiding in energy management strategies.
 
 5. Clustering of High-Incident Traffic Zones
+   
 ![image](https://github.com/user-attachments/assets/13af27ed-d98f-4152-a665-104bd70da35c)
 
 K-Means Clustering: Applied K-Means clustering on traffic data to group similar traffic zones.
@@ -74,13 +78,15 @@ PCA for Visualization: Used Principal Component Analysis (PCA) to reduce dimensi
 Outcome: Identified clusters of high-incident traffic zones, which can inform targeted interventions.
 
 6. Correlation Between Population Density and Traffic Incidents
-![image](https://github.com/user-attachments/assets/cc708fd4-f2ca-4692-b5c0-9b939112fd76)
-  
+   
+![image](https://github.com/user-attachments/assets/44f5904f-8bb5-4880-ab78-1a9133fd2ae1)
+
 Scatter Plot Analysis: Created scatter plots to examine the relationship between population density and traffic incidents.
 
 Outcome: Provided insights into how urban density impacts traffic incidents, which can guide urban planning decisions.
 
 7. Predictive Modeling for Energy Consumption
+   
 ![image](https://github.com/user-attachments/assets/c46c1be1-2a3d-4988-bf1e-95e4162833a0)
 
 Feature Selection: Selected key features such as population density and renewable energy percentage for modeling.
