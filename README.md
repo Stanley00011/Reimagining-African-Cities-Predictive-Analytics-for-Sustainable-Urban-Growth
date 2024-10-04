@@ -89,7 +89,7 @@ Outcome: Provided insights into how urban density impacts traffic incidents, whi
    
 ![image](https://github.com/user-attachments/assets/c46c1be1-2a3d-4988-bf1e-95e4162833a0)
 
-Feature Selection: Selected key features such as population density and renewable energy percentage for modeling.
+Feature Selection: Selected key features such as population density and renewable energy percentage for modelling.
 
 Linear Regression Model: Trained a linear regression model to predict energy consumption.
 
