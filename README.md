@@ -1,5 +1,6 @@
 # Reimagining African Cities: Predictive Analytics for Sustainable Urban Growth
 
+
 ## Project Overview
 This project focuses on applying predictive analytics to understand and support sustainable urban growth in African cities. By analyzing traffic congestion, air quality variations, energy consumption patterns, and population density, this project aims to provide insights that can help urban planners and policymakers make informed decisions.
 
