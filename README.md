@@ -20,7 +20,7 @@ Air Quality Variations Analysis: Analyze air quality data to detect trends and v
 
 Energy Consumption Patterns: Investigate energy consumption trends across different cities and identify factors influencing energy demand.
 
-Clustering of High-Incident Traffic Zones: Use clustering techniques to group areas with similar traffic incident rates, aiding in targeted urban planning.
+Clustering of High-Incident Traffic Zones: Used clustering techniques to group areas with similar traffic incident rates, aiding in targeted urban planning.
 
 Correlation Between Population Density and Traffic Incidents: Examine the relationship between population density and traffic incidents to understand how urban density affects traffic safety.
 
